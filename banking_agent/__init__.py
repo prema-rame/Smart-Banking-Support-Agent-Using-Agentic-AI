@@ -1,0 +1,1 @@
+"""Smart Banking Support Agent application."""
